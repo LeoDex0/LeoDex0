@@ -1,17 +1,26 @@
 ### Hey, I'm LeoDex 👋
 
-I build fast, high-craft websites for small businesses — the kind that feel expensive. Smooth scroll, scroll-triggered reveals, custom cursors, magnetic hover states, parallax — motion that makes a page feel alive instead of static.
+I build complete business websites, not just landing pages — multi-page sites with real forms, booking flows, and product catalogs, finished with motion and detail that make them feel expensive instead of templated.
 
 <br/>
 
-**What's under the hood on every site I ship:**
+**Site engineering:**
+
+- 🧱 Multi-page architecture — routing, layouts, structured content (not single-page templates)
+- 📝 Forms with schema validation & server-side handling (Zod + Server Actions)
+- 📅 Booking / reservation flows — date, time, and party-size selection
+- 🛍️ Product & service catalogs with category pages
+- 🔍 SEO — dynamic Open Graph images, favicons, and metadata generated in code
+- 🧩 Accessible, reusable UI systems — dialogs, carousels, calendars, tabs, toasts
+
+**Motion & polish:**
 
 - 🖱️ Custom cursor effects & magnetic hover links
 - 🌀 Buttery-smooth scrolling
 - 🎬 Scroll-triggered reveals & page-transition animations
 - 🎞️ Parallax imagery, marquee tickers, animated counters
 - 🎨 Grain/noise textures, preloaders, before/after sliders
-- 📱 Fully responsive, fast, SEO-friendly out of the box
+- 📱 Fully responsive, fast, TypeScript end-to-end
 
 <br/>
 
