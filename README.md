@@ -1,6 +1,6 @@
-### Hey, I'm Leo 👋
+### Hey, I'm LeoDex 👋
 
-Front-end / full-stack developer building fast, modern **business websites** — restaurants, hotels, agencies, and local businesses. Next.js, React, TypeScript, deployed on Vercel.
+Front-end / full-stack developer building fast, modern **business websites** — restaurants, hotels, agencies, and local businesses. Next.js, React, TypeScript
 
 **Live projects:**
 
@@ -11,4 +11,4 @@ Front-end / full-stack developer building fast, modern **business websites** —
 
 Full portfolio: **[portfolio-leo-dex.vercel.app](https://portfolio-leo-dex.vercel.app)**
 
-**Stack:** Next.js · React · TypeScript · Tailwind CSS · Vercel
+**Stack:** Next.js · React · TypeScript · Tailwind CSS ·
