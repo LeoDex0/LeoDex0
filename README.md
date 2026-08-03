@@ -47,3 +47,9 @@ I build complete business websites, not just landing pages — multi-page sites 
 | 💪 **PulseFit** | Strength & conditioning gym | [Live](https://pulse-fit-leo-dex.vercel.app) · [Code](https://github.com/LeoDex0/pulse-fit) |
 
 Full portfolio, all in one place → **[portfolio-leo-dex.vercel.app](https://portfolio-leo-dex.vercel.app)**
+
+<br/>
+
+**Let's work together**
+
+Available for freelance projects. Fastest way to reach me — [Telegram @xeDoeL](https://t.me/xeDoeL).
