@@ -40,7 +40,7 @@ I build complete business websites, not just landing pages — multi-page sites 
 | Project | What it is | |
 |---|---|---|
 | 🐟 **Il Faro** | Seafood restaurant, Rimini | [Live](https://il-faro-rimini.vercel.app) · [Code](https://github.com/LeoDex0/il-faro-rimini) |
-| 🥟 **Palyanytsya Trattoria** | Ukrainian restaurant, Riccione | [Live](https://palyanytsya-trattoria.vercel.app) · [Code](https://github.com/LeoDex0/palyanytsya-trattoria) |
+| 🥟 **korovai** | Ukrainian restaurant, Riccione | [Live](https://palyanytsya-trattoria.vercel.app) · [Code](https://github.com/LeoDex0/palyanytsya-trattoria) |
 | 🪟 **Windows Style Trading** | PVC windows & doors company, Rimini | [Live](https://windows-style-trading.vercel.app) · [Code](https://github.com/LeoDex0/windows-style-trading) |
 | 🏛️ **Studio Nova** | Architecture & interior design studio | [Live](https://studio-nova-leo-dex.vercel.app) · [Code](https://github.com/LeoDex0/studio-nova) |
 | 🏠 **PrimeEstate** | Real estate agency | [Live](https://prime-estate-leo-dex.vercel.app) · [Code](https://github.com/LeoDex0/prime-estate) |
