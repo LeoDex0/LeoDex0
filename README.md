@@ -8,7 +8,7 @@ Portfolio: [leodex.dev](https://leodex.dev) · Contact: [Telegram](https://t.me/
 
 | Project | Type | Links |
 |---|---|---|
-| Il Faro | Seafood restaurant | [Site](https://il-faro-rimini.vercel.app) · [Code](https://github.com/LeoDex0/il-faro-rimini) |
+| Il Faro | Seafood restaurant | [Site](https://il-faro.vercel.app) · [Code](https://github.com/LeoDex0/il-faro) |
 | Korovai | Ukrainian trattoria | [Site](https://palyanytsya-trattoria.vercel.app) · [Code](https://github.com/LeoDex0/korovai-trattoria) |
 | Hotel Adriano | Boutique hotel | [Site](https://hotel-site-omega-two.vercel.app) · [Code](https://github.com/LeoDex0/hotel-adriano) |
 | VetroCasa | Windows and doors | [Site](https://windows-style-trading.vercel.app) · [Code](https://github.com/LeoDex0/vetrocasa) |
