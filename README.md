@@ -1,6 +1,6 @@
 ## LeoDex
 
-I build websites for small businesses: restaurants, hotels, clinics, salons and studios. Multi-page sites with booking forms, menus and catalogs, built with Next.js.
+I make websites for small businesses: restaurants, hotels, clinics, salons. Built with Next.js.
 
 [leodex.dev](https://leodex.dev) · [Telegram](https://t.me/xeDoeL)
 
@@ -77,11 +77,13 @@ I build websites for small businesses: restaurants, hotels, clinics, salons and 
 <a href="https://github.com/LeoDex0/paint-picker"><img src="images/paint-picker.jpg" alt="Paint Picker" width="100%"></a>
 </td>
 <td width="50%" valign="top">
-<b>Paint Picker</b> · Desktop app for Windows
+<b>Paint Picker</b>
+<br>Windows app for painting 3D-printed miniatures.
 <br><br>
-For people who 3D-print miniatures and paint them by hand.
-<br><br>
-Pick a color from a photo and get the closest paints from Vallejo, Citadel, Army Painter and AK (about 1,460 paints), with shadow and highlight tones. It also calculates how to mix a color from paints you already own, and lets you paint the STL model in 3D before touching a brush.
+Picks a color from a photo
+<br>Finds the closest paints: Vallejo, Citadel, Army Painter, AK
+<br>Shows how to mix a color from paints you have
+<br>Lets you try the colors on the STL model in 3D
 <br><br>
 <a href="https://github.com/LeoDex0/paint-picker/releases/latest">Download</a> · <a href="https://github.com/LeoDex0/paint-picker">Code</a>
 </td>
