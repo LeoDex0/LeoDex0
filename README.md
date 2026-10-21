@@ -2,23 +2,73 @@
 
 I build websites for small businesses: restaurants, hotels, clinics, salons and studios. Multi-page sites with booking forms, menus and catalogs, built with Next.js.
 
-Portfolio: [leodex.dev](https://leodex.dev) · Contact: [Telegram](https://t.me/xeDoeL)
+[leodex.dev](https://leodex.dev) · [Telegram](https://t.me/xeDoeL)
 
 ### Projects
 
-| Project | Type | Links |
-|---|---|---|
-| Il Faro | Seafood restaurant | [Site](https://il-faro.vercel.app) · [Code](https://github.com/LeoDex0/il-faro) |
-| Korovai | Ukrainian trattoria | [Site](https://palyanytsya-trattoria.vercel.app) · [Code](https://github.com/LeoDex0/korovai-trattoria) |
-| Hotel Adriano | Boutique hotel | [Site](https://hotel-site-omega-two.vercel.app) · [Code](https://github.com/LeoDex0/hotel-adriano) |
-| VetroCasa | Windows and doors | [Site](https://windows-style-trading.vercel.app) · [Code](https://github.com/LeoDex0/vetrocasa) |
-| Studio Sestante | Dental clinic | [Site](https://studio-sestante.vercel.app) · [Code](https://github.com/LeoDex0/studio-sestante) |
-| Bloom Nail Bar | Nail salon | [Site](https://bloom-nail-bar-zeta.vercel.app) · [Code](https://github.com/LeoDex0/bloom-nail-bar) |
-| Rame Parrucchieri | Hair salon | [Site](https://rame-parrucchieri.vercel.app) · [Code](https://github.com/LeoDex0/rame-parrucchieri) |
-| Studio Nova | Architecture studio | [Site](https://studio-nova-leo-dex.vercel.app) · [Code](https://github.com/LeoDex0/studio-nova) |
-| PrimeEstate | Real estate agency | [Site](https://prime-estate-puce.vercel.app) · [Code](https://github.com/LeoDex0/prime-estate) |
-| PulseFit | Gym | [Site](https://pulse-fit-three.vercel.app) · [Code](https://github.com/LeoDex0/pulse-fit) |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://il-faro.vercel.app"><img src="images/il-faro.jpg" alt="Il Faro" width="100%"></a>
+<br><b>Il Faro</b> · Seafood restaurant
+<br><a href="https://il-faro.vercel.app">Site</a> · <a href="https://github.com/LeoDex0/il-faro">Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://hotel-site-omega-two.vercel.app"><img src="images/hotel-adriano.jpg" alt="Hotel Adriano" width="100%"></a>
+<br><b>Hotel Adriano</b> · Boutique hotel
+<br><a href="https://hotel-site-omega-two.vercel.app">Site</a> · <a href="https://github.com/LeoDex0/hotel-adriano">Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://palyanytsya-trattoria.vercel.app"><img src="images/korovai-trattoria.jpg" alt="Korovai" width="100%"></a>
+<br><b>Korovai</b> · Ukrainian trattoria
+<br><a href="https://palyanytsya-trattoria.vercel.app">Site</a> · <a href="https://github.com/LeoDex0/korovai-trattoria">Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://windows-style-trading.vercel.app"><img src="images/vetrocasa.jpg" alt="VetroCasa" width="100%"></a>
+<br><b>VetroCasa</b> · Windows and doors company
+<br><a href="https://windows-style-trading.vercel.app">Site</a> · <a href="https://github.com/LeoDex0/vetrocasa">Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://rame-parrucchieri.vercel.app"><img src="images/rame-parrucchieri.jpg" alt="Rame Parrucchieri" width="100%"></a>
+<br><b>Rame Parrucchieri</b> · Hair salon
+<br><a href="https://rame-parrucchieri.vercel.app">Site</a> · <a href="https://github.com/LeoDex0/rame-parrucchieri">Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://studio-nova-leo-dex.vercel.app"><img src="images/studio-nova.jpg" alt="Studio Nova" width="100%"></a>
+<br><b>Studio Nova</b> · Architecture studio
+<br><a href="https://studio-nova-leo-dex.vercel.app">Site</a> · <a href="https://github.com/LeoDex0/studio-nova">Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://studio-sestante.vercel.app"><img src="images/studio-sestante.jpg" alt="Studio Sestante" width="100%"></a>
+<br><b>Studio Sestante</b> · Dental clinic
+<br><a href="https://studio-sestante.vercel.app">Site</a> · <a href="https://github.com/LeoDex0/studio-sestante">Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://bloom-nail-bar-zeta.vercel.app"><img src="images/bloom-nail-bar.jpg" alt="Bloom Nail Bar" width="100%"></a>
+<br><b>Bloom Nail Bar</b> · Nail salon
+<br><a href="https://bloom-nail-bar-zeta.vercel.app">Site</a> · <a href="https://github.com/LeoDex0/bloom-nail-bar">Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pulse-fit-three.vercel.app"><img src="images/pulse-fit.jpg" alt="PulseFit" width="100%"></a>
+<br><b>PulseFit</b> · Gym
+<br><a href="https://pulse-fit-three.vercel.app">Site</a> · <a href="https://github.com/LeoDex0/pulse-fit">Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://prime-estate-puce.vercel.app"><img src="images/prime-estate.jpg" alt="PrimeEstate" width="100%"></a>
+<br><b>PrimeEstate</b> · Real estate agency
+<br><a href="https://prime-estate-puce.vercel.app">Site</a> · <a href="https://github.com/LeoDex0/prime-estate">Code</a>
+</td>
+</tr>
+</table>
 
 ### Stack
 
-Next.js, React, TypeScript, Tailwind CSS, GSAP, Framer Motion, Three.js, Vercel
+Next.js · React · TypeScript · Tailwind CSS · GSAP · Framer Motion · Three.js · Vercel
