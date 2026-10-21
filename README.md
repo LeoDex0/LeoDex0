@@ -1,55 +1,24 @@
-### Hey, I'm LeoDex 👋
+## LeoDex
 
-I build complete business websites, not just landing pages — multi-page sites with real forms, booking flows, and product catalogs, finished with motion and detail that make them feel expensive instead of templated.
+I build websites for small businesses: restaurants, hotels, clinics, salons and studios. Multi-page sites with booking forms, menus and catalogs, built with Next.js.
 
-<br/>
+Portfolio: [leodex.dev](https://leodex.dev) · Contact: [Telegram](https://t.me/xeDoeL)
 
-**Site engineering:**
+### Projects
 
-- 🧱 Multi-page architecture — routing, layouts, structured content (not single-page templates)
-- 📝 Forms with schema validation & server-side handling (Zod + Server Actions)
-- 📅 Booking / reservation flows — date, time, and party-size selection
-- 🛍️ Product & service catalogs with category pages
-- 🔍 SEO — dynamic Open Graph images, favicons, and metadata generated in code
-- 🧩 Accessible, reusable UI systems — dialogs, carousels, calendars, tabs, toasts
-
-**Motion & polish:**
-
-- 🖱️ Custom cursor effects & magnetic hover links
-- 🌀 Buttery-smooth scrolling
-- 🎬 Scroll-triggered reveals & page-transition animations
-- 🎞️ Parallax imagery, marquee tickers, animated counters
-- 🎨 Grain/noise textures, preloaders, before/after sliders
-- 📱 Fully responsive, fast, TypeScript end-to-end
-
-<br/>
-
-**Tech stack**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
-
-<br/>
-
-**Featured projects**
-
-| Project | What it is | |
+| Project | Type | Links |
 |---|---|---|
-| 🐟 **Il Faro** | Seafood restaurant, Rimini | [Live](https://il-faro-rimini.vercel.app) · [Code](https://github.com/LeoDex0/il-faro-rimini) |
-| 🥟 **korovai** | Ukrainian restaurant, Riccione | [Live](https://palyanytsya-trattoria.vercel.app) · [Code](https://github.com/LeoDex0/palyanytsya-trattoria) |
-| 🪟 **Windows Style Trading** | PVC windows & doors company, Rimini | [Live](https://windows-style-trading.vercel.app) · [Code](https://github.com/LeoDex0/windows-style-trading) |
-| 🏛️ **Studio Nova** | Architecture & interior design studio | [Live](https://studio-nova-leo-dex.vercel.app) · [Code](https://github.com/LeoDex0/studio-nova) |
-| 🏠 **PrimeEstate** | Real estate agency | [Live](https://prime-estate-leo-dex.vercel.app) · [Code](https://github.com/LeoDex0/prime-estate) |
-| 💪 **PulseFit** | Strength & conditioning gym | [Live](https://pulse-fit-leo-dex.vercel.app) · [Code](https://github.com/LeoDex0/pulse-fit) |
+| Il Faro | Seafood restaurant, Rimini | [Site](https://il-faro-rimini.vercel.app) · [Code](https://github.com/LeoDex0/il-faro-rimini) |
+| Korovai | Ukrainian trattoria, Riccione | [Site](https://palyanytsya-trattoria.vercel.app) · [Code](https://github.com/LeoDex0/korovai-trattoria) |
+| Hotel Adriano | Boutique hotel, Rimini | [Site](https://hotel-site-omega-two.vercel.app) · [Code](https://github.com/LeoDex0/hotel-adriano) |
+| VetroCasa | Windows and doors, Rimini | [Site](https://windows-style-trading.vercel.app) · [Code](https://github.com/LeoDex0/vetrocasa) |
+| Studio Sestante | Dental clinic, Rimini | [Site](https://studio-sestante.vercel.app) · [Code](https://github.com/LeoDex0/studio-sestante) |
+| Bloom Nail Bar | Nail salon, Rimini | [Site](https://bloom-nail-bar-zeta.vercel.app) · [Code](https://github.com/LeoDex0/bloom-nail-bar) |
+| Rame Parrucchieri | Hair salon, Rimini | [Site](https://rame-parrucchieri.vercel.app) · [Code](https://github.com/LeoDex0/rame-parrucchieri) |
+| Studio Nova | Architecture studio | [Site](https://studio-nova-leo-dex.vercel.app) · [Code](https://github.com/LeoDex0/studio-nova) |
+| PrimeEstate | Real estate agency | [Site](https://prime-estate-puce.vercel.app) · [Code](https://github.com/LeoDex0/prime-estate) |
+| PulseFit | Gym | [Site](https://pulse-fit-three.vercel.app) · [Code](https://github.com/LeoDex0/pulse-fit) |
 
-Full portfolio, all in one place → **[portfolio-leo-dex.vercel.app](https://portfolio-leo-dex.vercel.app)**
+### Stack
 
-<br/>
-
-**Let's work together**
-
-Available for freelance projects. Fastest way to reach me — [Telegram @xeDoeL](https://t.me/xeDoeL).
+Next.js, React, TypeScript, Tailwind CSS, GSAP, Framer Motion, Three.js, Vercel
