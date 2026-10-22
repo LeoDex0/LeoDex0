@@ -90,6 +90,27 @@ Picks a color from a photo
 </tr>
 </table>
 
+### Just for fun
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://leodex-v2.vercel.app"><img src="images/leodex-v2.jpg" alt="leodex.dev v2" width="100%"></a>
+</td>
+<td width="50%" valign="top">
+<b>leodex.dev v2</b>
+<br>My own site, redone from scratch to try a different layout.
+<br><br>
+Drag the strip of sites on the first screen
+<br>An old site gets fixed while you scroll
+<br>Projects open inside a browser frame
+<br>The terminal and its easter eggs are still there
+<br><br>
+<a href="https://leodex-v2.vercel.app">Site</a> · <a href="https://github.com/LeoDex0/leodex-v2">Code</a>
+</td>
+</tr>
+</table>
+
 ### Stack
 
-Next.js · React · TypeScript · Tailwind CSS · GSAP · Framer Motion · Three.js · Electron · Vercel
+Next.js · React · TypeScript · Tailwind CSS · Astro · GSAP · Framer Motion · Three.js · Electron · Vercel
