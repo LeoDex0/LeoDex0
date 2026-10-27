@@ -84,24 +84,6 @@ I make websites for small businesses (restaurants, hotels, clinics, salons) and 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/LeoDex0/DexVoice-app"><img src="images/dexvoice-cover.jpg" alt="DexVoice" width="100%"></a>
-</td>
-<td width="50%" valign="top">
-<b>DexVoice</b>
-<br>Voice assistant for Windows. Speech is recognized on the computer, without the cloud.
-<br><br>
-More than 1700 voice commands: apps, browser, music, video, windows, timers
-<br>Dictation into any window, your own commands and command chains
-<br>Phone remote in Telegram: touchpad, live screen, player, voice messages
-<br>Installer, auto updates, license keys
-<br><br>
-<sub>Python · sherpa-onnx · customtkinter · JavaScript · Cloudflare Workers · Telegram Mini App</sub>
-<br><br>
-<a href="https://github.com/LeoDex0/DexVoice-app/releases/latest">Download</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <a href="https://github.com/LeoDex0/paint-picker"><img src="images/paint-picker.jpg" alt="Paint Picker" width="100%"></a>
 </td>
 <td width="50%" valign="top">
