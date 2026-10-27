@@ -84,7 +84,7 @@ I make websites for small businesses (restaurants, hotels, clinics, salons) and 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/LeoDex0/DexVoice-app"><img src="images/dexvoice.jpg" alt="DexVoice" width="100%"></a>
+<a href="https://github.com/LeoDex0/DexVoice-app"><img src="images/dexvoice-cover.jpg" alt="DexVoice" width="100%"></a>
 </td>
 <td width="50%" valign="top">
 <b>DexVoice</b>
