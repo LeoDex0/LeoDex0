@@ -84,7 +84,7 @@ I make websites for small businesses (restaurants, hotels, clinics, salons) and 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/LeoDex0/paint-picker"><img src="images/paint-picker.jpg" alt="Paint Picker" width="100%"></a>
+<a href="https://github.com/LeoDex0/paint-picker"><img src="images/covers/paint-picker.jpg" alt="Paint Picker" width="100%"></a>
 </td>
 <td width="50%" valign="top">
 <b>Paint Picker</b>
