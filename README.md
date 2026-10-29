@@ -15,6 +15,20 @@ I make websites for small businesses (restaurants, hotels, clinics, salons) and 
 <br><a href="https://il-faro.vercel.app">Site</a> · <a href="https://github.com/LeoDex0/il-faro">Code</a>
 </td>
 <td width="50%" valign="top">
+<a href="https://karczma-kuznia.vercel.app"><img src="images/covers/karczma-kuznia.jpg" alt="Karczma Kuźnia" width="100%"></a>
+<br><b>Karczma Kuźnia</b> · Mountain inn restaurant
+<br><sub>HTML · CSS · JavaScript</sub>
+<br><a href="https://karczma-kuznia.vercel.app">Site</a> · <a href="https://github.com/LeoDex0/karczma-kuznia">Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://lazur-baseny-sauny.vercel.app"><img src="images/covers/lazur-baseny-sauny.jpg" alt="Lazur" width="100%"></a>
+<br><b>Lazur</b> · Pools and saunas
+<br><sub>Next.js · TypeScript · Tailwind CSS</sub>
+<br><a href="https://lazur-baseny-sauny.vercel.app">Site</a> · <a href="https://github.com/LeoDex0/lazur-baseny-sauny">Code</a>
+</td>
+<td width="50%" valign="top">
 <a href="https://hotel-site-omega-two.vercel.app"><img src="images/covers/hotel-adriano.jpg" alt="Hotel Adriano" width="100%"></a>
 <br><b>Hotel Adriano</b> · Boutique hotel
 <br><sub>Next.js · TypeScript · Tailwind CSS · GSAP · Three.js</sub>
