@@ -26,7 +26,7 @@ I make websites for small businesses (restaurants, hotels, clinics, salons) and 
 <a href="https://lazur-baseny-sauny.vercel.app"><img src="images/covers/lazur-baseny-sauny.jpg" alt="Lazur" width="100%"></a>
 <br><b>Lazur</b> · Pools and saunas
 <br><sub>Next.js · TypeScript · Tailwind CSS</sub>
-<br><a href="https://lazur-baseny-sauny.vercel.app">Site</a> · <a href="https://github.com/LeoDex0/lazur-baseny-sauny">Code</a>
+<br><a href="https://lazur-baseny-sauny.vercel.app">Site</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://hotel-site-omega-two.vercel.app"><img src="images/covers/hotel-adriano.jpg" alt="Hotel Adriano" width="100%"></a>
