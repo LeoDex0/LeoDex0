@@ -8,6 +8,14 @@ I make websites for small businesses (restaurants, hotels, clinics, salons) and 
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+<a href="https://obsidian-gamma-three.vercel.app"><img src="images/covers/obsidian.jpg" alt="OBSIDIAN" width="100%"></a>
+<br><b>OBSIDIAN</b> · Luxury watch brand concept: real-time 3D watches, a movement you can take apart, scroll scenes
+<br><sub>Next.js · TypeScript · Three.js · React Three Fiber · GSAP</sub>
+<br><a href="https://obsidian-gamma-three.vercel.app">Site</a> · <a href="https://github.com/LeoDex0/obsidian">Code</a>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://il-faro.vercel.app"><img src="images/covers/il-faro.jpg" alt="Il Faro" width="100%"></a>
 <br><b>Il Faro</b> · Seafood restaurant
