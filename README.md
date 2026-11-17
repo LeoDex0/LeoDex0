@@ -16,6 +16,14 @@ I make websites for small businesses (restaurants, hotels, clinics, salons) and 
 </td>
 </tr>
 <tr>
+<td colspan="2" valign="top">
+<a href="https://noir-lyon.vercel.app"><img src="images/covers/noir.jpg" alt="NOIR" width="100%"></a>
+<br><b>NOIR</b> · Fine dining restaurant concept: a cinematic opening, a seven-course menu you walk through, a working booking demo
+<br><sub>Next.js · TypeScript · GSAP · Lenis</sub>
+<br><a href="https://noir-lyon.vercel.app">Site</a> · <a href="https://github.com/LeoDex0/noir">Code</a>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://il-faro.vercel.app"><img src="images/covers/il-faro.jpg" alt="Il Faro" width="100%"></a>
 <br><b>Il Faro</b> · Seafood restaurant
