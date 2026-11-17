@@ -32,6 +32,14 @@ I make websites for small businesses (restaurants, hotels, clinics, salons) and 
 </td>
 </tr>
 <tr>
+<td colspan="2" valign="top">
+<a href="https://aurelion-sable.vercel.app"><img src="images/covers/aurelion.jpg" alt="AURELION" width="100%"></a>
+<br><b>AURELION</b> · Private aviation concept: a hangar-door opening, a to-scale fleet with seat plans, a live globe that draws the route and its range, a charter request demo
+<br><sub>Vite · TypeScript · GSAP · Lenis · D3</sub>
+<br><a href="https://aurelion-sable.vercel.app">Site</a> · <a href="https://github.com/LeoDex0/aurelion">Code</a>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://il-faro.vercel.app"><img src="images/covers/il-faro.jpg" alt="Il Faro" width="100%"></a>
 <br><b>Il Faro</b> · Seafood restaurant
