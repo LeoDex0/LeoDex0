@@ -24,6 +24,14 @@ I make websites for small businesses (restaurants, hotels, clinics, salons) and 
 </td>
 </tr>
 <tr>
+<td colspan="2" valign="top">
+<a href="https://nexus-chi-eight-45.vercel.app"><img src="images/covers/nexus.jpg" alt="NEXUS" width="100%"></a>
+<br><b>NEXUS</b> · Computing company concept: a real-time 3D core of five rings you can take apart, a living 3D network, optimisers that really run in the browser
+<br><sub>Vite · TypeScript · Three.js · GSAP · Lenis</sub>
+<br><a href="https://nexus-chi-eight-45.vercel.app">Site</a> · <a href="https://github.com/LeoDex0/nexus">Code</a>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://il-faro.vercel.app"><img src="images/covers/il-faro.jpg" alt="Il Faro" width="100%"></a>
 <br><b>Il Faro</b> · Seafood restaurant
